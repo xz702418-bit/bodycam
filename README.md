@@ -1,2 +1,0 @@
-# bodycam
-grabar videos pov
